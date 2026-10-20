@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\onlufanc\\RiderProjects\\SKTool\\SKTool\\SKTool.csproj": {}
+    "C:\\Users\\onlufanc\\RiderProjects\\SKTool\\SKReset\\SKReset.csproj": {}
   },
   "projects": {
-    "C:\\Users\\onlufanc\\RiderProjects\\SKTool\\SKTool\\SKTool.csproj": {
+    "C:\\Users\\onlufanc\\RiderProjects\\SKTool\\SKReset\\SKReset.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\onlufanc\\RiderProjects\\SKTool\\SKTool\\SKTool.csproj",
-        "projectName": "SKTool",
-        "projectPath": "C:\\Users\\onlufanc\\RiderProjects\\SKTool\\SKTool\\SKTool.csproj",
+        "projectUniqueName": "C:\\Users\\onlufanc\\RiderProjects\\SKTool\\SKReset\\SKReset.csproj",
+        "projectName": "SKReset",
+        "projectPath": "C:\\Users\\onlufanc\\RiderProjects\\SKTool\\SKReset\\SKReset.csproj",
         "packagesPath": "C:\\Users\\onlufanc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\onlufanc\\RiderProjects\\SKTool\\SKTool\\obj\\",
+        "outputPath": "C:\\Users\\onlufanc\\RiderProjects\\SKTool\\SKReset\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\onlufanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net9.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
             "projectReferences": {}
           }
         },
@@ -43,8 +43,8 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
           "imports": [
             "net461",
             "net462",

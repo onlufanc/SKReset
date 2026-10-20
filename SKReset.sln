@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKTool", "SKTool\SKTool.csproj", "{9A77153B-2690-49B5-9BEF-E1EA70103ABE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKReset", "SKReset\SKReset.csproj", "{9A77153B-2690-49B5-9BEF-E1EA70103ABE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
