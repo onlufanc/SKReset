@@ -1,0 +1,14 @@
+C:\Users\onlufanc\RiderProjects\SKTool\SKTool\bin\Debug\net9.0\SKTool.exe
+C:\Users\onlufanc\RiderProjects\SKTool\SKTool\bin\Debug\net9.0\SKTool.deps.json
+C:\Users\onlufanc\RiderProjects\SKTool\SKTool\bin\Debug\net9.0\SKTool.runtimeconfig.json
+C:\Users\onlufanc\RiderProjects\SKTool\SKTool\bin\Debug\net9.0\SKTool.dll
+C:\Users\onlufanc\RiderProjects\SKTool\SKTool\bin\Debug\net9.0\SKTool.pdb
+C:\Users\onlufanc\RiderProjects\SKTool\SKTool\obj\Debug\net9.0\SKTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onlufanc\RiderProjects\SKTool\SKTool\obj\Debug\net9.0\SKTool.AssemblyInfoInputs.cache
+C:\Users\onlufanc\RiderProjects\SKTool\SKTool\obj\Debug\net9.0\SKTool.AssemblyInfo.cs
+C:\Users\onlufanc\RiderProjects\SKTool\SKTool\obj\Debug\net9.0\SKTool.csproj.CoreCompileInputs.cache
+C:\Users\onlufanc\RiderProjects\SKTool\SKTool\obj\Debug\net9.0\SKTool.dll
+C:\Users\onlufanc\RiderProjects\SKTool\SKTool\obj\Debug\net9.0\refint\SKTool.dll
+C:\Users\onlufanc\RiderProjects\SKTool\SKTool\obj\Debug\net9.0\SKTool.pdb
+C:\Users\onlufanc\RiderProjects\SKTool\SKTool\obj\Debug\net9.0\SKTool.genruntimeconfig.cache
+C:\Users\onlufanc\RiderProjects\SKTool\SKTool\obj\Debug\net9.0\ref\SKTool.dll
